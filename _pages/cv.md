@@ -9,11 +9,10 @@ redirect_from:
 
 {% include base_path %}
 
-
 Education
 ======
-* M.S. in Singapore, National University of Singapore, 2024-2026
-* B.S. in United States of America, Lehigh University, 2021-2024
+* MSc in Singapore, National University of Singapore, 2024-2026
+* BS in United States of America, Lehigh University, 2021-2024
 
 Work experience
 ======
