@@ -16,48 +16,28 @@ Education
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Jun 2023-Sept 2023
+  * Tianfeng Securities Co., Ltd.
+  * Research Assistant
+  * Duties
+    * Internal information management optimization
+    * Interdepartmental data integration
+    * Stock Research and Monitoring
+* Dec 2022-Jan 2023
+  * Caida Securities Co., Ltd.
+  * Research Assistant
+  * Duties
+    * Report writing and quality control
+    * In-depth analysis of financial data
+    * Financial process optimization recommendations
+* Jun 2022-Aug 2022
+  * Shenwan Hongyuan Securities Co.,Ltd.
+  * Investment Banking Intern
+  * Duties
+    * Due Diligence and Execution
+    * Company tracking and intelligence collection
+    * Investment project auxiliary analysis
   
-Skills
+Resume
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* _**[Yuan Wang's resume](pdf/resume.pdf)**_
