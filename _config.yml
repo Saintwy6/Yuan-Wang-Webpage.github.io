@@ -25,21 +25,21 @@ author:
   avatar           : "profile.png"
   name             : "Yuan Wang"
   pronouns         : # example: "she/her"  
-  bio              : "Hi,my name is Yuan Wang (王原）,hope you find this webpage useful!"
-  location         : "Beijing"
+  bio              : "Hi, my name is Yuan Wang (王原）, hope you find this webpage useful!"
+  location         : "Beijing & Singapore"
   employer         : "National University of Singapore"
   uri              : # URL
   email            : "e1391123@u.nus.edu" 
 
   # Academic websites
-  arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
-  impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
-  semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : # URL
-  scopus           : # URL
+  #arxiv            : # URL - Update with the correct link to your profile
+  #googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  #impactstory      : # URL
+  #orcid            : "http://orcid.org/yourorcidurl"
+  #semantic         : # URL
+  #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  #researchgate     : # URL
+  #scopus           : # URL
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
