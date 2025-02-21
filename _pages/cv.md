@@ -38,6 +38,6 @@ Work experience
     * Company tracking and intelligence collection
     * Investment project auxiliary analysis
   
-_**[Yuan Wang's resume](assets/Yuan.pdf)**_
+_**[Yuan Wang's resume](assets/_Yuan.pdf)**_
 ======
-_**[Yuan Wang's resume](pages/Yuan.pdf)**_
+_**[Yuan Wang's resume](pages/_Yuan.pdf)**_
