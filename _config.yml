@@ -22,7 +22,7 @@ repository               : "https://saintwy6.github.io/Yuan-Wang-Webpage.github.
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile_pic.png"
   name             : "Yuan Wang"
   pronouns         : # example: "she/her"  
   bio              : "Finance Student"
