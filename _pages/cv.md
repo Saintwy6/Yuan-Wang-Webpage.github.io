@@ -40,4 +40,4 @@ Work experience
   
 Resume
 ======
-*_**[Yuan Wang's resume](https://github.com/Saintwy6/Saintwy6.github.io/blob/master/pdf/Yuan%20Wang_CV.pdf)**_
+*_**[Yuan Wang's resume](https://github.com/Saintwy6/Yuan-Wang-Webpage.github.io/blob/master/_pages/Yuan.pdf)**_
