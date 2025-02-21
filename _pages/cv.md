@@ -9,12 +9,12 @@ redirect_from:
 
 {% include base_path %}
 
-🎓Education
+🎓 Education
 ======
 * MSc in Singapore, National University of Singapore, 2024-2026
 * BS in United States of America, Lehigh University, 2021-2024
 
-💼Work experience
+💼 Work experience
 ======
 * Jun 2023-Sept 2023
   * Tianfeng Securities Co., Ltd.
@@ -38,6 +38,6 @@ redirect_from:
     * Company tracking and intelligence collection
     * Investment project auxiliary analysis
   
-📄Resume
+📄 Resume
 ======
 * _**[Yuan Wang's resume](https://github.com/Saintwy6/Yuan-Wang-Webpage.github.io/blob/master/_pages/Yuan.pdf)**_
