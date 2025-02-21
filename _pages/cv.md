@@ -40,4 +40,4 @@ Work experience
   
 _**[Yuan Wang's resume](_pages/Yuan.pdf)**_
 ======
-_**[Yuan Wang's resume](_pages/Yuan.pdf)**_
+_**[Yuan Wang's resume](Yuan.pdf)**_
