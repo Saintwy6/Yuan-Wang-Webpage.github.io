@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Welcome to My Homepage!"
+title                    : "Hi there, It's a pleasure to meet you!"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -25,7 +25,7 @@ author:
   avatar           : "profile.png"
   name             : "Yuan Wang"
   pronouns         : # example: "she/her"  
-  bio              : "Hi, my name is Yuan Wang (王原）, hope you find this webpage useful!"
+  bio              : "Finance Student"
   location         : "Beijing & Singapore"
   employer         : "National University of Singapore"
   uri              : # URL
