@@ -6,8 +6,6 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
-
 🎓 Education
 ======
 * MSc in Singapore, National University of Singapore, 2024-2026
