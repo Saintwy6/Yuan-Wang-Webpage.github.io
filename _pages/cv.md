@@ -38,6 +38,6 @@ Work experience
     * Company tracking and intelligence collection
     * Investment project auxiliary analysis
   
-_**[Yuan Wang's resume](_pages/Yuan.pdf)**_
+Resume
 ======
-_**[Yuan Wang's resume](Yuan.pdf)**_
+_**[Yuan Wang's resume](https://github.com/Saintwy6/Saintwy6.github.io/blob/master/pdf/Yuan%20Wang_CV.pdf)**_
