@@ -8,7 +8,7 @@ main:
   - title: "CV"
     url: /cv/
     
-  #- title: "Works Showcase"
+  #- title: "Portfolio"
     url: /portfolio/
          
   #- title: "Publications"
@@ -23,5 +23,5 @@ main:
   #- title: "Blog Posts"
     url: /year-archive/
     
-  #- title: "Guide"
+  - title: "Guide"
     url: /markdown/
