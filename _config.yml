@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Hi there, It's a pleasure to meet you!"
+title                    : "Yuan's Homepage"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
