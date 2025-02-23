@@ -1,7 +1,8 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Portfolio Showcase"
+excerpt: "I've done enormous amount of works and project, take a look!
 collection: portfolio
 ---
 
-For the midterm project in FIN377 class, I gained the basic idea of machine learning. We were asked to download and scraping the informational 10-k report and then came up with a professional report, reflecting the sentiment inside of each 10-k. Here's a glimpse of my work:
+<a href="https://saintwy6.github.io/" target="_blank">Click here to go to my archive</a>
+
