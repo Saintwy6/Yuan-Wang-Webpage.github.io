@@ -1,6 +1,6 @@
 ---
 title: "Portfolio Showcase"
-excerpt: "I've done enormous amount of works and project, take a look!
+excerpt: "I've done enormous amount of works and project, take a look!"
 collection: portfolio
 ---
 
