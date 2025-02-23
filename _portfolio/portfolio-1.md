@@ -4,4 +4,4 @@ excerpt: "Short description of portfolio item number 1<br/><img src='/images/500
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+For the midterm project in FIN377 class, I gained the basic idea of machine learning. We were asked to download and scraping the informational 10-k report and then came up with a professional report, reflecting the sentiment inside of each 10-k. Here's a glimpse of my work:
