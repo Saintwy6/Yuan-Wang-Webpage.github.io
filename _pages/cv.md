@@ -37,6 +37,10 @@ redirect_from:
     * Due Diligence and Execution
     * Company tracking and intelligence collection
     * Investment project auxiliary analysis
+
+🏅Certifications
+======
+* Passed Level I of the CFA Program, April 2025
   
 📄 Resume
 ======
